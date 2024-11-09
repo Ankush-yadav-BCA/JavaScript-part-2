@@ -1,2 +1,2 @@
 # Assignment_Questions
-All JS Assignment Question's Solution code here which assignment questions given in Delta 5.0 Web Development Batch
+All JS Assignment Question's Solution code here which assignment questions given in JS part 2 Web Development Batch
